@@ -1,156 +1,73 @@
-1u.ms
-awcloud.nl
-awsglobalaccelerator.com
-azurefd.net
-bacloud.info
-bdcloudapi.com
-cdn.cloudflare.net
-cdnscaches.vip
-cloudapp.azure.com
-cloudcdnv1.cn
-cloudezapp.io
-cloudfront.net
-compute-1.amazonaws.com
-compute.amazonaws.com
-contaboserver.net
-cprapid.com
-database.azure.com
-dedibox.fr
-devsapp.net
-dip0.t-ipconnect.de
-elasticbeanstalk.com
-elb.amazonaws.com
-eurodir.ru
-fastwebserver.de
-frontiernet.net
-fvds.ru
-gmhost.pp.ua
-gz.apigw.tencentcs.com
-hosted-by-mvps.net
-hosted-by-vdsina.com
-hosted-by-vdsina.ru
-hostwindsdns.com
-hstgr.cloud
-htb-cloud.com
-huaweicloudapis.com
-hwclouds-dns.com
-ip-5-39-117.eu
-ip-5-196-13.eu
-ip-5-196-28.eu
-ip-37-187-20.eu
-ip-37-187-54.eu
-ip-51-38-124.eu
-ip-51-38-184.eu
-ip-51-38-231.eu
-ip-51-68-148.eu
-ip-51-68-174.eu
-ip-51-68-175.eu
-ip-51-68-199.eu
-ip-51-68-226.eu
-ip-51-75-65.eu
-ip-51-75-74.eu
-ip-51-75-202.eu
-ip-51-75-206.eu
-ip-51-75-240.eu
-ip-51-75-246.eu
-ip-51-75-253.eu
-ip-51-77-222.eu
-ip-51-77-225.eu
-ip-51-79-128.net
-ip-51-79-156.net
-ip-51-79-214.net
-ip-51-81-72.us
-ip-51-83-28.eu
-ip-51-83-45.eu
-ip-51-83-128.eu
-ip-51-89-149.eu
-ip-51-89-185.eu
-ip-51-91-102.eu
-ip-51-91-253.eu
-ip-51-161-107.net
-ip-51-178-16.eu
-ip-51-178-42.eu
-ip-51-178-100.eu
-ip-51-195-182.eu
-ip-51-254-39.eu
-ip-51-254-46.eu
-ip-51-254-93.eu
-ip-51-254-147.eu
-ip-51-255-39.eu
-ip-51-255-45.eu
-ip-54-36-238.eu
-ip-79-137-7.eu
-ip-79-137-24.eu
-ip-79-137-34.eu
-ip-79-137-125.eu
-ip-87-98-150.eu
-ip-87-98-232.eu
-ip-91-121-224.eu
-ip-92-222-94.eu
-ip-92-222-181.eu
-ip-135-125-163.eu
-ip-137-74-17.eu
-ip-137-74-194.eu
-ip-139-99-36.net
-ip-139-99-91.net
-ip-139-99-118.net
-ip-144-217-61.net
-ip-144-217-91.net
-ip-144-217-241.net
-ip-145-239-29.eu
-ip-145-239-33.eu
-ip-147-135-84.us
-ip-147-135-195.eu
-ip-147-135-231.eu
-ip-149-56-111.net
-ip-149-202-34.eu
-ip-149-202-70.eu
-ip-151-80-210.eu
-ip-152-228-145.eu
-ip-176-31-69.eu
-ip-178-32-139.eu
-ip-178-33-150.eu
-ip-188-165-117.eu
-ip-188-165-203.eu
-ip-217-182-10.eu
-ip-217-182-168.eu
-ip-217-182-171.eu
-ip-217-182-207.eu
-ip-217-182-230.eu
-ip.linodeusercontent
-ipv4.staticdns1.io
-keitaro-staging.work
-linodeusercontent.com
-linodeusercontent.com
-liqi-8247.vip
-macloud.host
-managed-vps.net
-members.linode.com
-mspcloud.net
-nip.io
-online-server.cloud
-opengw.net
-oray.com
-ovh.net
-ovh.us
-pbiaas.com
-plesk.page
-plex.direct
-poneytelecom.eu
-publiccloud.com.br
-quickconnect.to
-r.cloudfront.net
-regruhosting.ru
-scw.cloud
-skyzone.asia
-spectrum.com
-ssdcloudindia.net
-sslip.io
-swisscom.ch
-tencentcs.com
-ultrasrv.de
-upcloud.host
-vdpme.com
-vps-default-host.net
-vps.ovh.ca
-your-server.de
+,domain,hosting_company_domain,infra_type,tenancy,context,hq_country
+0,1u.ms,azure.com,DNS,Multi-Tenant,Enterprise Cloud,US
+1,awcloud.nl,awcloud.nl,Compute/VPS,Single-Tenant,Regional Hosting Provider,NL
+2,awsglobalaccelerator.com,amazonaws.com,DNS/Load Balancer,Multi-Tenant,Enterprise Cloud,US
+3,azurefd.net,azure.com,CDN,Multi-Tenant,Enterprise Cloud,US
+4,bacloud.info,bacloud.com,Compute/VPS,Single-Tenant,Regional Hosting Provider,LT
+5,bdcloudapi.com,baidu.com,API Gateway,Multi-Tenant,Enterprise Cloud,CN
+6,cdn.cloudflare.net,cloudflare.com,CDN,Multi-Tenant,Enterprise Cloud,US
+7,cdnscaches.vip,unknown,CDN,Multi-Tenant,Regional Hosting Provider,Unknown
+8,cloudapp.azure.com,azure.com,App Hosting/PaaS,Multi-Tenant,Enterprise Cloud,US
+9,cloudcdnv1.cn,unknown,CDN,Multi-Tenant,Regional Hosting Provider,CN
+10,cloudezapp.io,cloudezapp.io,App Hosting/PaaS,Single-Tenant,Regional Hosting Provider,Unknown
+11,cloudfront.net,amazonaws.com,CDN/Object Storage,Multi-Tenant,Enterprise Cloud,US
+12,compute-1.amazonaws.com,amazonaws.com,Compute/VPS,Multi-Tenant,Enterprise Cloud,US
+13,compute.amazonaws.com,amazonaws.com,Compute/VPS,Multi-Tenant,Enterprise Cloud,US
+14,contaboserver.net,contabo.com,Compute/VPS,Single-Tenant,Regional Hosting Provider,DE
+15,cprapid.com,cpanel.net,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,US
+16,database.azure.com,azure.com,Database Hosting,Multi-Tenant,Enterprise Cloud,US
+17,dedibox.fr,scaleway.com,Compute/VPS,Single-Tenant,Regional Hosting Provider,FR
+18,devsapp.net,alibaba.com,App Hosting/PaaS,Multi-Tenant,Regional Hosting Provider,CN
+19,dip0.t-ipconnect.de,telekom.de,ISP/Network,ISP/Residential,Legit ISP,DE
+20,elasticbeanstalk.com,amazonaws.com,App Hosting/PaaS,Multi-Tenant,Enterprise Cloud,US
+21,elb.amazonaws.com,amazonaws.com,DNS/Load Balancer,Multi-Tenant,Enterprise Cloud,US
+22,eurodir.ru,eurodir.ru,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+23,fastwebserver.de,fastwebserver.de,Compute/VPS,Single-Tenant,Regional Hosting Provider,DE
+24,frontiernet.net,frontier.com,ISP/Network,ISP/Residential,Legit ISP,US
+25,fvds.ru,firstvds.ru,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+26,gmhost.pp.ua,gmhost.com.ua,Compute/VPS,Single-Tenant,Regional Hosting Provider,UA
+27,gz.apigw.tencentcs.com,tencentcloud.com,API Gateway,Multi-Tenant,Enterprise Cloud,CN
+28,hosted-by-mvps.net,mvps.net,Compute/VPS,Single-Tenant,Regional Hosting Provider,RO
+29,hosted-by-vdsina.com,vdsina.ru,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+30,hosted-by-vdsina.ru,vdsina.ru,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+31,hostwindsdns.com,hostwinds.com,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,US
+32,hstgr.cloud,hostinger.com,App Hosting/PaaS,Multi-Tenant,Enterprise Cloud,LT
+33,htb-cloud.com,htb-cloud.com,Compute/VPS,Single-Tenant,Regional Hosting Provider,GB
+34,huaweicloudapis.com,huaweicloud.com,API Gateway,Multi-Tenant,Enterprise Cloud,CN
+35,hwclouds-dns.com,huaweicloud.com,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,CN
+36,ip.linodeusercontent,akamai.com,Object Storage,Multi-Tenant,Enterprise Cloud,US
+37,ipv4.staticdns1.io,unknown,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,Unknown
+38,keitaro-staging.work,keitaro.io,App Hosting/PaaS,Single-Tenant,Regional Hosting Provider,CY
+39,linodeusercontent.com,akamai.com,Object Storage,Multi-Tenant,Enterprise Cloud,US
+40,liqi-8247.vip,unknown,App Hosting/PaaS,Single-Tenant,Regional Hosting Provider,CN
+41,macloud.host,macloud.host,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+42,managed-vps.net,managed-vps.net,Compute/VPS,Single-Tenant,Regional Hosting Provider,Unknown
+43,members.linode.com,akamai.com,App Hosting/PaaS,Multi-Tenant,Enterprise Cloud,US
+44,mspcloud.net,mspcloud.net,App Hosting/PaaS,Multi-Tenant,Regional Hosting Provider,US
+45,nip.io,nip.io,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,US
+46,online-server.cloud,ionos.com,Compute/VPS,Single-Tenant,Regional Hosting Provider,DE
+47,opengw.net,vpngate.net,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,JP
+48,oray.com,oray.com,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,CN
+49,ovh.net,ovhcloud.com,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,FR
+50,ovh.us,ovhcloud.com,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,FR
+51,pbiaas.com,pbiaas.com,App Hosting/PaaS,Multi-Tenant,Regional Hosting Provider,Unknown
+52,plesk.page,plesk.com,App Hosting/PaaS,Multi-Tenant,Enterprise Cloud,CH
+53,plex.direct,plex.tv,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,US
+54,poneytelecom.eu,scaleway.com,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,FR
+55,publiccloud.com.br,unknown,Compute/VPS,Multi-Tenant,Regional Hosting Provider,BR
+56,quickconnect.to,synology.com,DNS/Network Infra,Multi-Tenant,Enterprise Cloud,TW
+57,r.cloudfront.net,amazonaws.com,CDN,Multi-Tenant,Enterprise Cloud,US
+58,regruhosting.ru,reg.ru,Compute/VPS,Single-Tenant,Regional Hosting Provider,RU
+59,scw.cloud,scaleway.com,Compute/VPS,Multi-Tenant,Enterprise Cloud,FR
+60,skyzone.asia,skyzone.asia,App Hosting/PaaS,Single-Tenant,Regional Hosting Provider,Unknown
+61,spectrum.com,spectrum.com,ISP/Network,ISP/Residential,Legit ISP,US
+62,ssdcloudindia.net,ssdcloudindia.net,Compute/VPS,Single-Tenant,Regional Hosting Provider,IN
+63,sslip.io,sslip.io,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,Unknown
+64,swisscom.ch,swisscom.ch,ISP/Network,ISP/Residential,Legit ISP,CH
+65,tencentcs.com,tencentcloud.com,API Gateway,Multi-Tenant,Enterprise Cloud,CN
+66,ultrasrv.de,ultrasrv.de,Compute/VPS,Single-Tenant,Regional Hosting Provider,DE
+67,upcloud.host,upcloud.com,Compute/VPS,Multi-Tenant,Enterprise Cloud,FI
+68,vdpme.com,vdpme.com,DNS/Network Infra,Multi-Tenant,Regional Hosting Provider,Unknown
+69,vps-default-host.net,vps-default-host.net,Compute/VPS,Single-Tenant,Regional Hosting Provider,Unknown
+70,vps.ovh.ca,ovhcloud.com,Compute/VPS,Multi-Tenant,Enterprise Cloud,FR
+71,your-server.de,hetzner.com,Compute/VPS,Single-Tenant,Enterprise Cloud,DE
